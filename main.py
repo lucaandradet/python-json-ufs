@@ -7,4 +7,4 @@ resp = json.loads(resp.decode('utf-8')) #Codificando URL para codificação UTF-
 
 for x in resp:  #Percorrendo toda variável resp
    print(x['co_ies']+' - '+x['no_ies']) #Imprimindo somente os campos necessários
-   print("") #Imprimindo linha em branco
+   print("") #Imprimindo linha em branco 
