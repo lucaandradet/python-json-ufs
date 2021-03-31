@@ -12,7 +12,7 @@ https://sisu-api-pcr.apps.mec.gov.br/api/v1/oferta/instituicoes
 Cursos ofertados pela UFRN
 https://sisu-api-pcr.apps.mec.gov.br/api/v1/oferta/instituicao/570
 
-Aprovados UFRN 2020
+Aprovados UFRN
 https://sisu-api-pcr.apps.mec.gov.br/api/v1/oferta/570/selecionados
 
 Universidades Federais
